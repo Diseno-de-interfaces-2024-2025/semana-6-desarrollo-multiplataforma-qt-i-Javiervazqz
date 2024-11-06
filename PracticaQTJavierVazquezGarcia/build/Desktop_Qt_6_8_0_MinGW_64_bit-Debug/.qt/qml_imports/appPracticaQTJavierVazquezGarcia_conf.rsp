@@ -1,0 +1,14 @@
+-rootPath
+F:/DESARROLLO DE INTERFACES/TEMA 05/QT/PracticaQTJavierVazquezGarcia
+-cmake-output
+-output-file
+F:/DESARROLLO DE INTERFACES/TEMA 05/QT/PracticaQTJavierVazquezGarcia/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qt/qml_imports/appPracticaQTJavierVazquezGarcia_conf.cmake
+-importPath
+F:/DESARROLLO DE INTERFACES/TEMA 05/QT/PracticaQTJavierVazquezGarcia/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/PracticaQTJavierVazquezGarcia
+-importPath
+F:/DESARROLLO DE INTERFACES/TEMA 05/QT/PracticaQTJavierVazquezGarcia/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug
+-importPath
+D:/QT/6.8.0/mingw_64/qml
+-qrcFiles
+F:/DESARROLLO DE INTERFACES/TEMA 05/QT/PracticaQTJavierVazquezGarcia/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qt/rcc/qmake_PracticaQTJavierVazquezGarcia.qrc
+F:/DESARROLLO DE INTERFACES/TEMA 05/QT/PracticaQTJavierVazquezGarcia/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qt/rcc/appPracticaQTJavierVazquezGarcia_raw_qml_0.qrc
